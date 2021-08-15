@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexHLinS
-- 👀 I’m interested in coding 
+- 👀 I'm interested in coding and automation routines
 - 🌱 I’m currently using python
 
 <!---
