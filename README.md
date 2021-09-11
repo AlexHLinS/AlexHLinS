@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexHLinS
-- 👀 I'm interested in coding and automation routines
+- 👀 I'm interested in coding and automation routines, since Sep.'21 started learning Data Science.
 - 🌱 I’m currently using python, also using other languages depends on the situations )))
 
 <!---
