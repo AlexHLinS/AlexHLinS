@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex aka HLinS
 - 👀 interested in coding and automation routines
 - 📚 since Sep.'21 learning Data Science
-- 🌱 mainly using python, interested in c++, swift
+- 🌱 mainly using python, interested in c++
 
 <!---
 AlexHLinS/AlexHLinS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
