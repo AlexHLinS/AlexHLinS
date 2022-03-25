@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align='center'>
 <a href='https://github-readme-stats.vercel.app/api?username=alexhlins&show_icons=true&count_private=true'>
-<img src='https://github-readme-stats.vercel.app/api?username=alexhlins&show_icons=true&count_private=true'>
+<img height=150  src='https://github-readme-stats.vercel.app/api?username=alexhlins&show_icons=true&count_private=true'>
 </a>
 <a href='https://github-readme-stats.vercel.app/api/top-langs/?username=alexhlins&show_icons=true&count_private=true'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=alexhlins&show_icons=true&count_private=true'>
+<img height=150 src='https://github-readme-stats.vercel.app/api/top-langs/?username=alexhlins&show_icons=true&count_private=true'>
 </a>
 </p>
