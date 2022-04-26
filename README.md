@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Alex aka HLinS
 - 👀 interested in coding and automation routines
-- 📚 since Sep.'21 learning Data Science
+- 📚 since Sep.'21 learning Data Science in HSE
 - 🌱 mainly using python, interested in c++
 
 <p align='center'>
