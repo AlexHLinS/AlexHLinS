@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m Alex aka HLinS
 - 👀 interested in coding and automation routines
 - 📚 Graduated Data Sciencientist 
-- 🌱 Python enthusiast
+- 🌱 Back-end Python developer
 
 <p align='center'>
 <a href='https://github-readme-stats.vercel.app/api?username=alexhlins&show_icons=true&count_private=true'>
